@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import sqlite3
 
-bot = telebot.TeleBot("8557401774:AAHRL-jED1L8SBAHF1gfDSt29rlFO361lA0") # токен бота
+bot = telebot.TeleBot("TOKEN") # токен бота
 admin_id = 7563327336  # айди админа
 
 # клавиатура
