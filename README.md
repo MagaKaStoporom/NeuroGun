@@ -81,7 +81,7 @@ from telebot import types
 import sqlite3
 
 bot = telebot.TeleBot("TOKEN") # токен бота
-admin_id = 7563327336  # айди админа
+admin_id = ВАШ_ТЕЛЕГРАММ_ID  # айди админа
 
 # клавиатура
 keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
