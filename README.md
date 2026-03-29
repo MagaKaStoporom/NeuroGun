@@ -24,15 +24,18 @@
 # Написать нам!	Отправить вопрос
 ## 📦 Установка
 Клонируйте репозиторий
-
+~~~
 bash
 git clone https://github.com/your-username/telegram-support-bot.git
 cd telegram-support-bot
 Установите зависимости
+~~~
 
+~~~
 bash
 pip install pytelegrambotapi
 Настройте токен
+~~~
 
 python
 bot = telebot.TeleBot("YOUR_BOT_TOKEN")
